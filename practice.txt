@@ -1,0 +1,8 @@
+age = int(input("enter the age"))
+for i in range(0,3):
+    try:
+        if age> 18:
+            print("registration valid")
+        break:
+    except exception as e:
+        print("invalid registration")
