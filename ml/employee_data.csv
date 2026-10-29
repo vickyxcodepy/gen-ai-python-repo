@@ -1,0 +1,11 @@
+EmpID,Name,Department,Age,Salary,Experience,City
+101,Arun,IT,25,35000,2,Chennai
+102,Priya,HR,29,42000,5,Madurai
+103,Kumar,IT,32,58000,8,Chennai
+104,Divya,Finance,27,39000,3,Coimbatore
+105,Rahul,IT,24,30000,1,Salem
+106,Meena,HR,35,62000,10,Chennai
+107,Sathish,Finance,31,51000,7,Madurai
+108,Nila,IT,28,47000,4,Coimbatore
+109,Vijay,Sales,30,44000,6,Chennai
+110,Kavya,Sales,26,36000,2,Salem
